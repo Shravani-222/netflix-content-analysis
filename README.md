@@ -3,10 +3,10 @@ This project explores Netflix's publicly available dataset to uncover insights a
 
 # Project Overview
 With the rise of streaming platforms, understanding content trends is essential for business strategy. This project analyzes Netflix content to answer questions like:
--What type of content is more common (Movies or TV Shows)?
--Which countries contribute the most content?
--What genres are most popular?
--How has content evolved over the years?
+- What type of content is more common (Movies or TV Shows)?
+- Which countries contribute the most content?
+- What genres are most popular?
+- How has content evolved over the years?
 
 # Dataset Overview
 Source: Netflix Dataset on Kaggle
